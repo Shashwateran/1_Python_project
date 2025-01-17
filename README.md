@@ -67,8 +67,7 @@ Each Jupyter notebook for this project aimed at investigating specific aspects o
 
 To find the most demanded skills for the top 3 most popular data roles. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 3 roles. This query highlights the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I'm targeting. 
 
-View my notebook with detailed steps here: [2_Skill_Demand](1_Python_project
-/Project/2_Skills_Demand.ipynb).
+View my notebook with detailed steps here: [2_Skill_Demand](Project/2_Skills_Demand.ipynb).
 
 ### Visualize Data
 
@@ -99,8 +98,7 @@ fig.tight_layout()
 
 ### Results
 
-![Likelihood of Skills Requested in the Job Postings(Canada)](1_Python_project
-/Project\Images\Top3_Skills_demand.png)
+![Likelihood of Skills Requested in the Job Postings(Canada)](Project/Images/Top3_Skills_demand.png)
 
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
@@ -114,8 +112,7 @@ fig.tight_layout()
 
 To find how skills are trending in 2023 for Data Analysts, I filtered data analyst positions and grouped the skills by the month of the job postings. This got me the top 5 skills of data analysts by month, showing how popular skills were throughout 2023.
 
-View my notebook with detailed steps here: [3_Skills_Trend](1_Python_project
-/Project\3_Skills_Trend.ipynb).
+View my notebook with detailed steps here: [3_Skills_Trend](Project/3_Skills_Trend.ipynb).
 
 ### Visualize Data
 
@@ -134,8 +131,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in the Canada](1_Python_project
-/Project\Images\3_skills_trend.png)  
+![Trending Top Skills for Data Analysts in the Canada](Project/Images/3_skills_trend.png)  
 *Bar graph visualizing the trending top skills for data analysts in Canada in 2023.*
 
 ### Insights:
@@ -147,8 +143,7 @@ plt.show()
 
 To identify the highest-paying roles and skills, I only got jobs in the Canada and looked at their median salary. But first I looked at the salary distributions of common data jobs like Data Scientist, Data Engineer, and Data Analyst, to get an idea of which jobs are paid the most. 
 
-View my notebook with detailed steps here: [4_Salary_Analysis](1_Python_project
-/Project\4_Salary_Analysis.ipynb).
+View my notebook with detailed steps here: [4_Salary_Analysis](Project/4_Salary_Analysis.ipynb).
 
 #### Visualize Data 
 
@@ -165,8 +160,7 @@ plt.show()
 
 #### Results
 
-![Salary Comparison of Data Jobs in Canada](1_Python_project
-/Project\Images\Salary_box.png)  
+![Salary Comparison of Data Jobs in Canada](Project/Images/Salary_box.png)  
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 #### Insights
@@ -206,8 +200,7 @@ plt.show()
 #### Results
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in Canada:
 
-![The Highest Paid & Most In-Demand Skills for Data Analysts in the Canada](1_Python_project
-/Project\Images\High_paid_skills.png)
+![The Highest Paid & Most In-Demand Skills for Data Analysts in the Canada](Project/Images/High_paid_skills.png)
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the Canada.*
 
 #### Insights:
@@ -221,8 +214,7 @@ Here's the breakdown of the highest-paid & most in-demand skills for data analys
 
 To identify the most optimal skills to learn ( the ones that are the highest paid and highest in demand) I calculated the percent of skill demand and the median salary of these skills. To easily identify which are the most optimal skills to learn. 
 
-View my notebook with detailed steps here: [5_Optimal_Skills](1_Python_project
-/Project\5_Optimal_skills.ipynb).
+View my notebook with detailed steps here: [5_Optimal_Skills](Project/5_Optimal_skills.ipynb).
 
 #### Visualize Data
 
@@ -240,8 +232,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the Canada](1_Python_project
-/Project\Images\optimal_skills_for_data_analysts.png)    
+![Most Optimal Skills for Data Analysts in the Canada](Project/Images/optimal_skills_for_data_analysts.png)    
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the Canada.*
 
 #### Insights:
@@ -274,8 +265,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the Canada with Coloring by Technology](1_Python_project
-/Project\Images\Optimal_skills.png)  
+![Most Optimal Skills for Data Analysts in the Canada with Coloring by Technology](Project/Images/Optimal_skills.png)  
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the Canada with color labels for technology.*
 
 #### Insights:
